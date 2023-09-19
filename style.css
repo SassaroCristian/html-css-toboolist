@@ -1,0 +1,116 @@
+body {
+    margin:0px;
+    background-color:#F5F8F9 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    margin-left: 0px;
+    margin-top: 0px;
+   
+    background-color: white;
+}
+
+#logo {
+    padding-top:20px;
+}
+
+
+#title {
+    display: inline-block;
+    padding-bottom: 10px;
+    margin: 0;
+    
+}
+
+.centered-box1 {
+    width: 50%;
+    height: 10px;
+    margin: auto;
+    margin-top:30px;
+    background-color: white;
+    padding: 30px;
+}
+.centered-box2 {
+    width: 50%;
+    margin: auto;
+    margin-top:1px;
+    background-color: white;
+    padding: 30px;
+}
+
+#button-sect {
+   
+    height: 50px;
+    
+    
+}
+
+#blue-butt {
+    background-color:blue ;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#white-butt {
+    border: 1px solid grey ;
+    color: grey;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.editorial {
+    background-color:blue ;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#goals {
+    background-color:purple ;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#recruting {
+    background-color:green ;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#mobile {
+    background-color:orange ;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#website {
+    background-color:violet ;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#sales {
+    background-color:lightgreen ;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.done {
+    border: solid 1px green;
+    border-radius: 1000px;
+    padding: 3px;
+
+}
+
+.not-done{
+    border: solid 1px red;
+    border-radius: 1000px;
+    padding: 4px;
+}
