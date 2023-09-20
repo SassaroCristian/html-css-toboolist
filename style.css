@@ -78,8 +78,9 @@ p {
 
 .badge{
   color: white;
-  padding: 5px;
+  padding: 5px 10px;
   border-radius: 10px;
+  font-size: 12px;
 }
 
 .editorial {
